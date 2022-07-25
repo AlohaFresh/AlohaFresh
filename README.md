@@ -1,6 +1,6 @@
-- 👋 Hi, I’m @AlohaFresh
-- 👀 I’m interested in learning anything that I can about programming.
-- 🌱 I’m currently learning web design through a course I'm taking at school.
+- 👋 Hi, I’m @Pooh
+- 👀 I’m interested in learning anything that I can about information technology.
+- 🌱 I’m currently learning networking through a course I'm taking at school.
 - 💞️ I’m looking to collaborate on anything that I can be of use on.
 - 📫 How to reach me, through email... greenlanternxiv@gmail.com
 
